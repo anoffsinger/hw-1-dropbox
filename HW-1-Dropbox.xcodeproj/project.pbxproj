@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					851BA4AD1DB2AD0F002D4454 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 826245N2M8;
 						ProvisioningStyle = Automatic;
 					};
 					851BA4C11DB2AD10002D4454 = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 826245N2M8;
 				INFOPLIST_FILE = "HW-1-Dropbox/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "me.noff.HW-1-Dropbox";
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 826245N2M8;
 				INFOPLIST_FILE = "HW-1-Dropbox/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "me.noff.HW-1-Dropbox";

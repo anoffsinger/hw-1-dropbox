@@ -21,6 +21,7 @@
 		851BA4E91DB2EC53002D4454 /* TermsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851BA4E81DB2EC53002D4454 /* TermsViewController.swift */; };
 		851BA4EB1DB2F517002D4454 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851BA4EA1DB2F517002D4454 /* SettingsViewController.swift */; };
 		851BA4ED1DB30041002D4454 /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851BA4EC1DB30041002D4454 /* PhotosViewController.swift */; };
+		851BA4EF1DB485E8002D4454 /* WelcomeScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 851BA4EE1DB485E8002D4454 /* WelcomeScrollViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		851BA4E81DB2EC53002D4454 /* TermsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsViewController.swift; sourceTree = "<group>"; };
 		851BA4EA1DB2F517002D4454 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		851BA4EC1DB30041002D4454 /* PhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
+		851BA4EE1DB485E8002D4454 /* WelcomeScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeScrollViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				851BA4E81DB2EC53002D4454 /* TermsViewController.swift */,
 				851BA4EA1DB2F517002D4454 /* SettingsViewController.swift */,
 				851BA4EC1DB30041002D4454 /* PhotosViewController.swift */,
+				851BA4EE1DB485E8002D4454 /* WelcomeScrollViewController.swift */,
 			);
 			name = ViewControllers;
 			sourceTree = "<group>";
@@ -295,6 +298,7 @@
 				851BA4E71DB2C2EA002D4454 /* SignInFormViewController.swift in Sources */,
 				851BA4E11DB2BB86002D4454 /* CreateAccountViewController.swift in Sources */,
 				851BA4B41DB2AD0F002D4454 /* ViewController.swift in Sources */,
+				851BA4EF1DB485E8002D4454 /* WelcomeScrollViewController.swift in Sources */,
 				851BA4B21DB2AD0F002D4454 /* AppDelegate.swift in Sources */,
 				851BA4E91DB2EC53002D4454 /* TermsViewController.swift in Sources */,
 				851BA4EB1DB2F517002D4454 /* SettingsViewController.swift in Sources */,
